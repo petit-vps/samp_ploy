@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
       <body style="font-family:Arial;text-align:center;padding:100px">
         <h1>Hello Dokploy ! 🚀</h1>
         <p>Mon premier déploiement fonctionne.</p>
-        <p>Node.js + Docker + Dokploy</p>
+        <p>Vous pouvez maintenant commencer à développer votre application.</p>
       </body>
     </html>
   `);
